@@ -13,6 +13,10 @@
 - You have the option to **plot graphs** for your data.
 - You can see **Outliers** in your data in a visulization way.
 - You can **drop multiple columns** and **rename columns**.
+- Linear Regression: Apply linear regression models to predict continuous values based on your dataset. Visualize regression lines and evaluate model performance using metrics like R-squared and Mean Squared Error.
+- Logistic Regression: Use logistic regression for classification tasks to predict binary or multi-class outcomes. Evaluate model accuracy, precision, recall, and F1 score.
+- Decision Tree: Build decision tree models for both regression and classification tasks. Visualize the tree structure and evaluate performance metrics like accuracy, confusion matrix, and feature importance
+- K-Nearest Neighbors (KNN): Apply KNN for classification or regression tasks. Visualize decision boundaries and evaluate model performance based on accuracy and distance metrics.
 - You can *drop* **multiple categorical Rows** and **Numerical Rows** by giving **multiple conditions**.
 - Handling **Handling Missing Data**, **Merging On Index** and **Concatenating On Axis**
 - You can **download/export** your edited data.
@@ -23,20 +27,7 @@
 - More **Detailed Analysis** of The data.
 - And many more... 
 
-
-Check out the live demo: https://data-analysis-webapp.herokuapp.com/
-
-### Vedio demo:
-<p><img  alt="GIF" src="https://github.com/everydaycodings/Data-Analysis-Web-App/blob/master/presentation/vedio.gif" width="800" height="450" /></p>
-
 # Note
-
-> #### Use this URL - [Click Me](https://github.com/everydaycodings/Data-Analysis-Web-App/issues/new) - in case if you are faccing any problem with th WebApp or source code.
-
-
-
-Source Code: [github link](https://github.com/everydaycodings/Data-Analysis-Web-App)
-
 
 ## How to run the project?
 
@@ -51,18 +42,5 @@ Source Code: [github link](https://github.com/everydaycodings/Data-Analysis-Web-
 
 ### If you Use this Code for Any Commercial Purpose. Please Don't Forget To mention or give shoutout to [everydaycodings](https://github.com/everydaycodings).
 
-### Donate If you fell this Web App Makes your work a bit easy.
 
-#### Binance (BNB)
-```
-0x846d778c4714830C8cdcB2Af85F76544CFf0d9A1
-```
-#### Cardano(ADA)
-```
-addr1q8fstx3ut2nfhrv9e324tyfdp2uwcvy0uree3junwll5y5p7lnnqpnq6ufjh4qfkul9tvx49udsnyq7vmst6huvngyss72e63v
-```
 
-#### Bitcoin(BTC)
-```
-bc1qutf2e707aglx8wqmf4x8e7rzxaunmxlcnpyxqr
-```
